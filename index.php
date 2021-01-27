@@ -16,14 +16,14 @@
 	<tr>
 		<td>Nama</td>
 		<td>:</td>
-		<td>KURNIAWAN AS</td>
+		<td>ASRIANI</td>
 		<td rowspan="10" align="center"><img src="1.jpg" width="200" height="250">
 		</td>
 	</tr>
 	<tr>
 		<td>Nim</td>
 		<td>:</td>
-		<td>217 280 064</td>
+		<td>217 280 071</td>
 	</tr>
 	<tr>
 		<td>Kelas</td>
@@ -38,17 +38,17 @@
 	<tr>
 		<td>Tempat, Tanggal Lahir</td>
 		<td>:</td>
-		<td>PINRANG, 01 JULI 1999</td>
+		<td>BATULAPPA, 07 OKTOBER 1999</td>
 	</tr>
 	<tr>
 		<td>Jenis Kelamin</td>
 		<td>:</td>
-		<td>LAKI LAKI</td>
+		<td>PEREMPUAN</td>
 	</tr>
 	<tr>
 		<td>Alamat</td>
 		<td>:</td>
-		<td>TIROANG</td>
+		<td>BATULAPPA</td>
 	</tr>
 		<tr>
 		<td>Mata Kuliah</td>
